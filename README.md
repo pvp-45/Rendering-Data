@@ -15,7 +15,7 @@ The "Posts and Comments Viewer" is a web-based application crafted as an educati
 4. **Responsive Web Design**: Implementing responsive design principles to ensure the application's UI is adaptable across various device sizes, enhancing user experience.
 
 By integrating these aspects, the project not only served as a means to understand individual technologies like Bootstrap and the Fetch API but also how they can be seamlessly combined to create a functional and interactive web application. This project is particularly beneficial for learners and developers who are venturing into the realms of modern web development, aiming to solidify their understanding of front-end development practices, asynchronous programming, and responsive design.
-=======
+
 
 
 
