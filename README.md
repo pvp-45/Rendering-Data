@@ -35,7 +35,7 @@ The application is straightforward to use:
 - [HTML](https://www.w3.org/html/) - The standard markup language for documents designed to be displayed in a web browser.
 - [Bootstrap](https://getbootstrap.com/) - An open-source CSS framework directed at responsive, mobile-first front-end web development.
 - [JavaScript](https://www.javascript.com/) - A programming language commonly used in web development.
-- [{JSON}PlaceHolder] (https://jsonplaceholder.typicode.com/) - A popular test API
+- [{JSON}PlaceHolder](https://jsonplaceholder.typicode.com/) - A popular test API
 
 
 
